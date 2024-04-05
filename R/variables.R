@@ -1,0 +1,9 @@
+globalVariables(c("time_index",
+                    "y_var",
+                    "term",
+                    "id",
+                    "statistic",
+                    "value",
+                    "algorithm",
+                    "quantile",
+                    "median"))
